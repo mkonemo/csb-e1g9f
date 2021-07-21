@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mkonemo.github.io/csb-e1g9f/static/css/main.23a7b246.chunk.css",
+    "main.js": "https://mkonemo.github.io/csb-e1g9f/static/js/main.489fbff3.chunk.js",
+    "main.js.map": "https://mkonemo.github.io/csb-e1g9f/static/js/main.489fbff3.chunk.js.map",
+    "runtime-main.js": "https://mkonemo.github.io/csb-e1g9f/static/js/runtime-main.4620d59e.js",
+    "runtime-main.js.map": "https://mkonemo.github.io/csb-e1g9f/static/js/runtime-main.4620d59e.js.map",
+    "static/js/2.51da0b59.chunk.js": "https://mkonemo.github.io/csb-e1g9f/static/js/2.51da0b59.chunk.js",
+    "static/js/2.51da0b59.chunk.js.map": "https://mkonemo.github.io/csb-e1g9f/static/js/2.51da0b59.chunk.js.map",
+    "index.html": "https://mkonemo.github.io/csb-e1g9f/index.html",
+    "static/css/main.23a7b246.chunk.css.map": "https://mkonemo.github.io/csb-e1g9f/static/css/main.23a7b246.chunk.css.map",
+    "static/js/2.51da0b59.chunk.js.LICENSE.txt": "https://mkonemo.github.io/csb-e1g9f/static/js/2.51da0b59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4620d59e.js",
+    "static/js/2.51da0b59.chunk.js",
+    "static/css/main.23a7b246.chunk.css",
+    "static/js/main.489fbff3.chunk.js"
+  ]
+}
